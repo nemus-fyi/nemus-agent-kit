@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nemus": {
+      "type": "http",
+      "url": "https://api.nemus.fyi/mcp"
+    }
+  }
+}

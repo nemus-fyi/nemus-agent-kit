@@ -1,0 +1,11 @@
+{
+  "name": "nemus",
+  "version": "1.0.0",
+  "description": "Plan and track work as a task graph in Nemus.",
+  "mcpServers": {
+    "nemus": {
+      "httpUrl": "https://api.nemus.fyi/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

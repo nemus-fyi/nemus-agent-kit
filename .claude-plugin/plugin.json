@@ -1,0 +1,10 @@
+{
+  "name": "nemus",
+  "version": "1.0.0",
+  "description": "Plan and track work as a task graph in Nemus: turn briefs into connected tasks, find blockers, catch up on projects, and log coding progress.",
+  "author": { "name": "Nemus", "email": "hi@nemus.fyi", "url": "https://nemus.fyi" },
+  "homepage": "https://nemus.fyi",
+  "repository": "https://github.com/nemus-fyi/nemus-agent-kit",
+  "license": "MIT",
+  "keywords": ["task-management", "project-management", "planning", "graph", "mcp", "dependencies"]
+}

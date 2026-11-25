@@ -1,0 +1,15 @@
+{
+  "name": "nemus",
+  "description": "Nemus task graph for Claude Code: remote MCP server plus planning and tracking skills.",
+  "owner": {
+    "name": "Nemus",
+    "email": "hi@nemus.fyi"
+  },
+  "plugins": [
+    {
+      "name": "nemus",
+      "source": "./",
+      "description": "Nemus task graph: MCP server plus planning, blocker and catch-up skills."
+    }
+  ]
+}

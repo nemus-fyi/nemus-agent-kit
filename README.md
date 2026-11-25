@@ -2,7 +2,9 @@
 
 # Nemus agent kit
 
-[Nemus](https://nemus.fyi) is a graph-based task manager: tasks are nodes, relationships are edges. This repo connects any MCP-capable agent to your Nemus workspace and adds a few skills for planning and tracking work as a graph.
+[Nemus](https://nemus.fyi) is the human-agent collaboration platform. People and their AI agents work from one shared picture of the work: what's planned, how it connects, what's blocked, and what just shipped.
+
+This kit brings your agent into Nemus, with a few skills for planning and staying on top of work together.
 
 - **MCP server:** `https://api.nemus.fyi/mcp` (Streamable HTTP, OAuth sign-in, no API key to paste)
 - **Skills:** `plan-with-nemus`, `whats-blocking`, `project-catch-up`, `log-work-to-nemus`
@@ -54,9 +56,9 @@ gemini extensions install https://github.com/nemus-fyi/nemus-agent-kit
 
 Add a remote MCP server with URL `https://api.nemus.fyi/mcp`. Your client opens a browser window to sign in.
 
-## What the agent can do
+## What your agent can do
 
-Projects, tasks (with status, priority, dates, owners), relationships (`BLOCKS`, `EXPANDS`, `RELATED_TO`, `CAUSES`), comments, references (PRs, docs, designs), assignments, notifications, Dynamic Views and Drawboard pins. Access follows your Nemus permissions.
+Plan work with you, keep it connected, spot what's stuck, catch you up, and record what got done, inside the same workspace your team uses. It only sees what you can see.
 
 ## Skills
 

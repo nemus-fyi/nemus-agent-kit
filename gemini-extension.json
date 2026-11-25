@@ -1,7 +1,7 @@
 {
   "name": "nemus",
-  "version": "1.0.0",
-  "description": "Plan and track work as a task graph in Nemus.",
+  "version": "1.0.1",
+  "description": "The human-agent collaboration platform.",
   "mcpServers": {
     "nemus": {
       "httpUrl": "https://api.nemus.fyi/mcp"

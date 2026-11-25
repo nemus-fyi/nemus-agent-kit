@@ -2,18 +2,20 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.nemus-fyi/nemus",
   "title": "Nemus",
-  "description": "Graph-based task manager: plan, connect and track work as a task graph from any agent.",
+  "description": "The human-agent collaboration platform.",
   "repository": {
     "url": "https://github.com/nemus-fyi/nemus-agent-kit",
     "source": "github"
   },
   "websiteUrl": "https://nemus.fyi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/nemus-fyi/nemus-agent-kit/main/assets/logo.png",
       "mimeType": "image/png",
-      "sizes": ["512x512"]
+      "sizes": [
+        "512x512"
+      ]
     }
   ],
   "remotes": [

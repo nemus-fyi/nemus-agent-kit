@@ -1,6 +1,6 @@
 {
   "name": "nemus",
-  "description": "Nemus task graph for Claude Code: remote MCP server plus planning and tracking skills.",
+  "description": "The human-agent collaboration platform.",
   "owner": {
     "name": "Nemus",
     "email": "hi@nemus.fyi"
@@ -9,7 +9,7 @@
     {
       "name": "nemus",
       "source": "./",
-      "description": "Nemus task graph: MCP server plus planning, blocker and catch-up skills."
+      "description": "The human-agent collaboration platform."
     }
   ]
 }

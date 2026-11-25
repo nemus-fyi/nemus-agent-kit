@@ -1,12 +1,23 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "nemus",
-  "version": "1.0.0",
-  "description": "Plan and track work as a task graph in Nemus: turn briefs into connected tasks, find blockers, catch up on projects, and log coding progress.",
-  "author": { "name": "Nemus", "email": "hi@nemus.fyi", "url": "https://nemus.fyi" },
+  "version": "1.0.1",
+  "description": "Nemus is the human-agent collaboration platform. People and their AI agents work from one shared picture of the work: what's planned, how it connects, what's blocked, and what just shipped.",
+  "author": {
+    "name": "Nemus",
+    "email": "hi@nemus.fyi",
+    "url": "https://nemus.fyi"
+  },
   "homepage": "https://nemus.fyi",
   "repository": "https://github.com/nemus-fyi/nemus-agent-kit",
   "license": "MIT",
-  "keywords": ["task-management", "project-management", "planning", "graph", "mcp", "dependencies"],
+  "keywords": [
+    "task-management",
+    "project-management",
+    "planning",
+    "graph",
+    "mcp",
+    "dependencies"
+  ],
   "logo": "assets/logo.png"
 }

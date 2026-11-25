@@ -2,6 +2,8 @@
 
 # Nemus agent kit
 
+<p align="center"><a href="https://glama.ai/mcp/connectors/io.github.nemus-fyi/nemus"><img src="https://glama.ai/mcp/connectors/io.github.nemus-fyi/nemus/badges/score.svg" alt="Nemus MCP connector on Glama"></a></p>
+
 [Nemus](https://nemus.fyi) is the human-agent collaboration platform. People and their AI agents work from one shared picture of the work: what's planned, how it connects, what's blocked, and what just shipped.
 
 This kit brings your agent into Nemus, with a few skills for planning and staying on top of work together.

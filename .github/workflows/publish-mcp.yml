@@ -17,9 +17,8 @@ jobs:
 
       - name: Install mcp-publisher
         run: |
-          eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
-          brew install mcp-publisher
-          echo "$(brew --prefix)/bin" >> "$GITHUB_PATH"
+          /home/linuxbrew/.linuxbrew/bin/brew install mcp-publisher
+          echo "/home/linuxbrew/.linuxbrew/bin" >> "$GITHUB_PATH"
 
       - name: Validate server.json
         run: mcp-publisher validate

@@ -1,6 +1,6 @@
 ---
 name: project-catch-up
-description: Give a short catch-up on a Nemus project or on the user's own assignments: what moved, what is stuck, what needs attention. Use when the user asks for a status update, standup, weekly summary, "where are we", or "what's on my plate".
+description: "Give a short catch-up on a Nemus project or on the user's own assignments: what moved, what is stuck, what needs attention. Use when the user asks for a status update, standup, weekly summary, \"where are we\", or \"what's on my plate\"."
 ---
 
 # Project catch-up

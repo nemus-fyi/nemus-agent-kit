@@ -1,6 +1,6 @@
 ---
 name: log-work-to-nemus
-description: Record what was done in a coding or writing session on the matching Nemus task: update status, add a short comment, and attach the PR, branch or doc link. Use when the user says "update Nemus", "log this", "mark it done", or finishes work that maps to a Nemus task.
+description: "Record what was done in a coding or writing session on the matching Nemus task: update status, add a short comment, and attach the PR, branch or doc link. Use when the user says \"update Nemus\", \"log this\", \"mark it done\", or finishes work that maps to a Nemus task."
 ---
 
 # Log work to Nemus

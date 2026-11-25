@@ -1,6 +1,6 @@
 ---
 name: whats-blocking
-description: Find what is blocking a task, a milestone or a whole Nemus project, and suggest the next unblocking move. Use when the user asks "what's blocking X", "why is this stuck", "what should I do next", or "what's on the critical path".
+description: "Find what is blocking a task, a milestone or a whole Nemus project, and suggest the next unblocking move. Use when the user asks \"what's blocking X\", \"why is this stuck\", \"what should I do next\", or \"what's on the critical path\"."
 ---
 
 # What's blocking

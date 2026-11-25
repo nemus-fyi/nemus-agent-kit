@@ -1,6 +1,6 @@
 ---
 name: plan-with-nemus
-description: Turn a brief, spec, meeting notes or a rough idea into a connected task graph in Nemus. Use when the user asks to plan, break down, scope or "put into Nemus" a piece of work, or wants tasks with dependencies rather than a flat list.
+description: "Turn a brief, spec, meeting notes or a rough idea into a connected task graph in Nemus. Use when the user asks to plan, break down, scope or \"put into Nemus\" a piece of work, or wants tasks with dependencies rather than a flat list."
 ---
 
 # Plan with Nemus
